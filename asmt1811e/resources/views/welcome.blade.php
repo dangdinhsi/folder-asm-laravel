@@ -84,29 +84,30 @@
                     My Project
                 </div>
                 <div class="links">
-                    <a href="#">BT644: migration database</a>
+                    <a href="https://github.com/dangdinhsi/folder-asm-laravel/tree/master/asmt1811e"><i>source code asm</i></a>
+                    <p></p>
                 </div>
                 <div class="links">
                     <a href="{{route('list-product')}}"><b style="color: red">BT567</b></a>
                 </div>
                 <div class="links">
-                    <span>BT641: <a href="{{route('input-student')}}">view</a></span>
+                    <p>BT641: <a href="{{route('input-student')}}">view</a></p>
                 </div>
                 <div class="links">
-                    <span>BT642: <a href="{{route('bt642-p1')}}">view list</a>&nbsp;&nbsp;,<a href="{{route('bt642-p2')}}">view list method2</a>&nbsp;&nbsp;,<a
-                            href="{{route('input-product')}}">add product</a></span>
+                    <p>BT642: <a href="{{route('bt642-p1')}}">view list</a>&nbsp;&nbsp;,<a href="{{route('bt642-p2')}}">view list method2</a>&nbsp;&nbsp;,<a
+                            href="{{route('input-product')}}">add product</a></p>
                 </div>
                 <div class="links">
-                    <span>BT646: <a href="{{route('showAll')}}">Phần 1</a>,<a href="{{route('showDetail')}}">Phần 2</a></span>
+                    <p>BT646: <a href="{{route('showAll')}}">Phần 1</a>,<a href="{{route('showDetail')}}">Phần 2</a></p>
                 </div>
                 <div class="links">
-                   <span>BT645: <a href="{{route('bt645-form')}}">view</a></span>
+                   <p>BT645: <a href="{{route('bt645-form')}}">view</a></p>
                 </div>
                 <div class="links">
-                    <span>BT647: <a href="{{route('BT647showAll')}}">view</a></span>
+                    <p>BT647: <a href="{{route('BT647showAll')}}">view</a></p>
                 </div>
                 <div class="links">
-                    <a href="#">Link_Git_ASM</a>
+                    <span>BT644: migration database</span>
                 </div>
             </div>
         </div>
